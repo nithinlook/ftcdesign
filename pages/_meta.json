@@ -1,9 +1,8 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "folder example",
-  "about": {
-    "title": "About",
-    "type": "page"
+  "learningCourse": "Learning Course",
+  "stage0": "Stage 0",
+  "contributors": {
+    "contributors": "Contributors"
   }
 }
