@@ -2,8 +2,7 @@
   "index": "Introduction",
   "learningCourse": {
     "title": "Learning Course",
-    "type": "page",
-    "sideBar": true
+    "type": "page"
   },
   "contributors": {
     "title": "Contributors",
