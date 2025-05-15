@@ -3,7 +3,7 @@
   {
     name: "index",
     route: "/",
-    title: "Index",
+    title: "Home",
     frontMatter: {},
   },
 ];
