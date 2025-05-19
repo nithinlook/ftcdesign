@@ -1,0 +1,4 @@
+export default {
+    example1: "Example 1",
+    example2: "Example 2"
+}

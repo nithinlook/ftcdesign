@@ -1,14 +1,14 @@
 export default {
     index: {
         title: "Home",
-        type: "page",
+        type: "page"
     },
     "learning-course": {
         title: 'Learning Course',
-        type: 'page'
+        type: 'page',
     },
-    contributors: {
-        title: "Contributors",
-        type: "page"
+    "mechanism-examples": {
+        title: 'Mechanism Examples',
+        type: 'page',
     },
 }
