@@ -85,6 +85,7 @@ export default async function RootLayout({ children }) {
           footer={footer}
           navbar={navbar}
           pageMap={pageMap}
+          sidebar={{ defaultMenuCollapseLevel : 1 }}
           docsRepositoryBase="https://github.com/nithinlook/ftcdesign"
           toc={{
             extraContent: (

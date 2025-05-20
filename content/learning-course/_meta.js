@@ -1,5 +1,3 @@
 export default {
-    overview: {
-        title: 'Overview',
-    }
+    overview: "Overview"
 }

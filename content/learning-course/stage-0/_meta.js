@@ -1,6 +1,4 @@
 export default {
     introduction: "Introduction",
-    "workspace-setup": {
-        title: "Workspace Setup",
-    }
+    "workspace-setup": "Workspace Setup"
 }
