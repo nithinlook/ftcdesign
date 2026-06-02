@@ -27,7 +27,7 @@ const schema = resolve(dirname, './schema.prisma');
 try {
 	unlinkSync(tempDb);
 } catch (_) {
-	/* ignore */
+	/* ignore*/
 }
 
 // 1. Pull current schema
